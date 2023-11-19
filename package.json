@@ -1,0 +1,26 @@
+{
+  "name": "gjk-rbx-database",
+  "version": "0.0.1",
+  "description": "GJK's external database!\n\nUsed for external requests.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.3",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/titan-rbx-database"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
